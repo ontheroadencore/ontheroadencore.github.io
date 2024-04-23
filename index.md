@@ -14,8 +14,6 @@ Lieu : La ferme de cupelin
 https://www.lafermedecupelin.com/
 198 Rte du Château, 74170 Saint-Gervais-les-Bains, France
 
-{% google_map %}
-
 ### Playlist de la soirée
 
 # Infos pratiques
