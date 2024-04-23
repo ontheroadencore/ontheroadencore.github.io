@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+    padding: 0;
+    height: 100vh;
+}
+
+.page-header {
+    background-image: url(https://on-the-road-encore.com/mariage/PXL_20230725_122945210.MP.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
