@@ -2,29 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Cérémonie
 
-[Link to another page](./another-page.html).
+Heure : 14h
+Lieu : Mairie des Contamines-Montjoie
 
-There should be whitespace between paragraphs.
+# Soirée
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Démarrage avec le vin d'honneur à 17h 
+Lieu : La ferme de cupelin
+https://www.lafermedecupelin.com/
+198 Rte du Château, 74170 Saint-Gervais-les-Bains, France
 
-# Header 1
+### Playlist de la soirée
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Infos pratiques
 
-## Header 2
+## Comment se déplacer
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Contamines-Montjoie en train puis en bus, les navettes sont rares et les trajets plus longs qu'en voiture.
 
-### Header 3
+Si vous cherchez une place en voiture ou si vous pouvez prendre quelqu'un faites nous signe, ou ecore mieux inscrivez vous ici: https://app.caroster.io/fr/e/b62e540d-bba1-4731-bbe0-833a84adb0a1/
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+## Enfants
+
+Margot et Anouk seront ravies de partager l'évènnement avec tous les enfants présents!
+Nous avons prévu un buffet, quelques annimations pour les ~~petits monstres~~ chères têtes blondes, ainsi que des baby sitter sur place pour les 2 ans et plus.
+Les enfants restent sous la responsabilité des parents. On compte sur vous.
+
+## Divers
+Logement : si vous n'en avez pas déjà discuté avec nous faites nous signe
+Style vestimentaire : semi formel
+Cadeaux : n'hésitez pas à nous en parler également !
+
+# Et après?
+
+## Dimanche
+
+Nous avons prévu une activité randonnée ainsi qu'un pique nique au lac de l'étape (Les Contamines Montjoie).
+
+Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz, mais il est possible d'y accéder par les télécabines.
+Maillot de bain conseillé.
+
+## Lune de miel 
+
+Nous comptons partir en vadrouille
+
+## Que faire dans la région ?
+Vous restez quelques jours de plus ?
+Cette page est pour vous: [Activités](./activites.html).
