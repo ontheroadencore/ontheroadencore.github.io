@@ -15,3 +15,14 @@
     background-position: center center;
     background-size: cover;
 }
+
+#skip-to-content {
+    overflow: hidden;
+    left: 50%;
+    position: absolute;
+    transform: translateY(500%);
+    background: #91b5d7;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
