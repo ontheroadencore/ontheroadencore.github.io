@@ -23,12 +23,12 @@ https://www.lafermedecupelin.com/
 
 S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Contamines-Montjoie en train puis en bus, les navettes sont rares et les trajets plus longs qu'en voiture.
 
-Si vous cherchez une place en voiture ou si vous pouvez prendre quelqu'un faites nous signe, ou ecore mieux inscrivez vous ici: https://app.caroster.io/fr/e/b62e540d-bba1-4731-bbe0-833a84adb0a1/
+Si vous cherchez une place en voiture ou si vous pouvez prendre quelqu'un faites nous signe, ou encore mieux inscrivez vous ici: https://app.caroster.io/fr/e/b62e540d-bba1-4731-bbe0-833a84adb0a1/
 
 ## Enfants
 
-Margot et Anouk seront ravies de partager l'évènnement avec tous les enfants présents!
-Nous avons prévu un buffet, quelques annimations pour les ~~petits monstres~~ chères têtes blondes, ainsi que des baby sitter sur place pour les 2 ans et plus.
+Margot et Anouk seront ravies de partager l'évènement avec tous les enfants présents!
+Nous avons prévu un buffet, quelques animations pour les ~~petits monstres~~ chères têtes blondes, ainsi que des baby sitter sur place pour les 2 ans et plus.
 Les enfants restent sous la responsabilité des parents. On compte sur vous.
 
 ## Divers
