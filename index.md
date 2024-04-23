@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Mariage d'Estelle et Victor
 
 # Cérémonie
 
