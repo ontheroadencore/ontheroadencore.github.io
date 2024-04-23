@@ -14,6 +14,8 @@ Lieu : La ferme de cupelin
 https://www.lafermedecupelin.com/
 198 Rte du Château, 74170 Saint-Gervais-les-Bains, France
 
+{% google_map %}
+
 ### Playlist de la soirée
 
 # Infos pratiques
@@ -42,11 +44,13 @@ Cadeaux : n'hésitez pas à nous en parler également !
 Nous avons prévu une activité randonnée ainsi qu'un pique nique au lac de l'étape (Les Contamines Montjoie).
 
 Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz, mais il est possible d'y accéder par les télécabines.
+
 Maillot de bain conseillé.
 
 ## Lune de miel 
 
-Nous comptons partir en vadrouille
+Nous comptons partir en vadrouille quelques jours dans la région.
+Une trek en tente de 2-3 jours ? Un trail ? De l'escalade ? Ecrivez nous avec des idées !
 
 ## Que faire dans la région ?
 Vous restez quelques jours de plus ?
