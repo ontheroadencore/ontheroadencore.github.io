@@ -14,6 +14,13 @@ Lieu : La ferme de cupelin
 https://www.lafermedecupelin.com/
 198 Rte du Château, 74170 Saint-Gervais-les-Bains, France
 
+{% google_map
+   zoom="10"
+   latitude="40.4378698"
+   longitude="-3.8196204"
+   marker_title="Madrid!"
+   marker_url="https://en.wikipedia.org/wiki/Madrid" %}
+
 ### Playlist de la soirée
 
 # Infos pratiques
