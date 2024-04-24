@@ -7,6 +7,8 @@ layout: default
 Heure : 14h
 Lieu : Mairie des Contamines-Montjoie
 
+{% include mairie.html %}
+
 # Soirée
 
 Démarrage avec le vin d'honneur à 17h 
