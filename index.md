@@ -60,7 +60,7 @@ Cadeaux : n'hésitez pas à nous en parler également !
 Nous avons prévu une activité randonnée facile (4,5km et 400m de dénivelé positif) ainsi qu'un pique nique au lac de l'étape (Les Contamines Montjoie). 
 
 Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz, mais il est possible d'y accéder directement par les télécabines de Notre-Dame de la Gorge.
-Pour les motivés, rendez-vous à 11h au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape.
+Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape.
 
 Maillot de bain conseillé.
 
