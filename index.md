@@ -16,7 +16,7 @@ La suite des festivités se déroule à une quinzaine de minutes en voiture des 
 
 Il sera possible de se rendre sur les lieux après la cérémonie à la mairie. Une piscine intérieure sera à la disposition des invités avant le vin d'honneur (attention, elle n'est pas adaptée/sécurisée pour les enfants).
 
-Nous ferons quelques photos de groupe vers 17h
+Nous ferons quelques photos de groupe vers 17h.
 Le vin d'honneur débutera vers 17h30
 
 Lieu : La Ferme de Cupelin
