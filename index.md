@@ -5,9 +5,7 @@ layout: default
 
 # RSVP
 
-Pour confirmer ou non votre présence, c'est par ici que ça se passe:
-
-[Formulaire](https://forms.gle/28fEHJhLhJQxDkY56).
+Pour confirmer ou non votre présence, c'est par ici que ça se passe : [Formulaire](https://forms.gle/28fEHJhLhJQxDkY56)
 
 # Cérémonie
 
