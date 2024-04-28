@@ -11,7 +11,9 @@ Pour confirmer ou non votre présence, c'est par ici que ça se passe:
 # Cérémonie
 
 Heure : 14h
+
 Lieu : Mairie des Contamines-Montjoie
+
 Parking public chemin des Crueys, juste à côté de la mairie
 
 {% include mairie.html %}
@@ -20,9 +22,12 @@ Parking public chemin des Crueys, juste à côté de la mairie
 
 La suite des festivités se déroule à une quinzaine de minutes en voiture des Contamines.
 
+
 Il sera possible de se rendre sur les lieux après la cérémonie à la mairie. Une piscine intérieure sera à la disposition des invités avant le vin d'honneur (attention, elle n'est pas adaptée/sécurisée pour les enfants).
 
+
 Nous ferons quelques photos de groupe vers 17h.
+
 Le vin d'honneur débutera vers 17h30
 
 Lieu : [La Ferme de Cupelin][https://www.lafermedecupelin.com/]
@@ -33,8 +38,6 @@ Lieu : [La Ferme de Cupelin][https://www.lafermedecupelin.com/]
 
 {% include cupelin.html %}
 
-
-### Playlist de la soirée
 
 # Infos pratiques
 
@@ -63,9 +66,13 @@ Cadeaux : n'hésitez pas à nous en parler également !
 
 ## Dimanche
 
-Nous avons prévu une activité randonnée facile (4,5km et 400m de dénivelé positif) ainsi qu'un pique nique au lac de l'étape (Les Contamines Montjoie). 
+Nous avons prévu une activité randonnée facile (4,5km et 400m de dénivelé positif) ainsi qu'un pique nique au lac de l'étape (Les Contamines Montjoie), si le temps nous le permet.
+
+![Lac de l'étape](https://on-the-road-encore.com/mariage/lacetape.jpg)
+
 
 Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz, mais il est possible d'y accéder directement par les télécabines de Notre-Dame de la Gorge.
+
 Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape.
 
 Maillot de bain conseillé.
