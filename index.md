@@ -80,7 +80,11 @@ Maillot de bain conseillé.
 ## Lune de miel 
 
 Nous comptons partir en vadrouille quelques jours dans la région.
+
 Une trek en tente de 2-3 jours ? Un trail ? De l'escalade ? Ecrivez nous avec des idées !
+
+“The mountains are calling and I must go.” - John Muir
+
 
 ## Que faire dans la région ?
 Vous restez quelques jours de plus ?
