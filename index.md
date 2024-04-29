@@ -19,7 +19,7 @@ Parking public chemin des Crueys, juste à côté de la mairie
 
 # Festivités
 
-La suite des festivités se déroule à une quinzaine de minutes en voiture des Contamines.
+La suite des festivités se déroule à une [quinzaine de minutes en voiture des Contamines](https://www.google.com/maps/dir/Mairie,+Route+de+Notre+Dame+de+la+Gorge,+Les+Contamines-Montjoie,+France/198+Rte+du+Ch%C3%A2teau,+Saint-Gervais-les-Bains+74170,+France/@45.8587453,6.6730077,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47895a2a8705599b:0x6e93c40b0587ba21!2m2!1d6.7268019!2d45.8227826!1m5!1m1!1s0x47895707c859dfb1:0x51ce9311a96d3f27!2m2!1d6.6996233!2d45.8898248!3e0?entry=ttu).
 
 
 Il sera possible de se rendre sur les lieux après la cérémonie à la mairie. Une piscine intérieure sera à la disposition des invités avant le vin d'honneur (attention, elle n'est pas adaptée/sécurisée pour les enfants).
@@ -29,11 +29,11 @@ Nous ferons quelques photos de groupe vers 17h.
 
 Le vin d'honneur débutera vers 17h30
 
-Lieu : [La Ferme de Cupelin][https://www.lafermedecupelin.com/]
+Lieu : [La Ferme de Cupelin](https://www.lafermedecupelin.com/)
 
 
 
-198 Rte du Château, 74170 Saint-Gervais-les-Bains, France
+[198 Rte du Château, 74170 Saint-Gervais-les-Bains, France](https://www.google.com/maps/place/198+Rte+du+Ch%C3%A2teau,+74170+Saint-Gervais-les-Bains,+France/@45.8898285,6.6970484,17z/data=!3m1!4b1!4m6!3m5!1s0x47895707c859dfb1:0x51ce9311a96d3f27!8m2!3d45.8898248!4d6.6996233!16s%2Fg%2F11bw3ych1s?entry=ttu)
 
 {% include cupelin.html %}
 
@@ -57,9 +57,9 @@ Nous avons prévu un buffet, quelques animations pour les ~~petits monstres~~ ch
 Les enfants restent sous la responsabilité des parents. On compte sur vous pour contenir leur excitation.
 
 ## Divers
-Logement : si vous n'en avez pas déjà discuté avec nous, faites-nous signe
-Style vestimentaire : semi formel (cravate optionnelle :))
-Cadeaux : n'hésitez pas à nous en parler également !
+*Logement* : si vous n'en avez pas déjà discuté avec nous, faites-nous signe
+
+*Style vestimentaire* : Semi-formel à décontracté (cravate optionnelle, mais on évite le short-t-shirt 🙂)
 
 # Et après?
 
