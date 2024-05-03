@@ -5,7 +5,8 @@
 
 .page-header {
     padding: 0;
-    height: 100vh;
+    max-height: 100vh;
+    min-height: 30vh;
 }
 
 .page-header {
