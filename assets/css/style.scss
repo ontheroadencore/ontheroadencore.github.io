@@ -9,11 +9,15 @@
 
 @media (max-width: 800px) {
     /* CSS that should be displayed if width is equal to or less than 800px goes here */
-    min-height: 30vh;
-    max-height: 100vh;
+    .page-header {
+        min-height: 30vh;
+        max-height: 100vh;         
+    }
 }
-@media (min-width: 800px) {
-    height: 100vh;
+@media (min-width: 800px) {    
+    .page-header {
+        height: 100vh;    
+    }
 }
 
 .page-header {
