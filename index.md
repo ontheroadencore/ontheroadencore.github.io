@@ -22,12 +22,9 @@ Parking public chemin des Crueys, juste à côté de la mairie
 La suite des festivités se déroule à une [quinzaine de minutes en voiture des Contamines](https://www.google.com/maps/dir/Mairie,+Route+de+Notre+Dame+de+la+Gorge,+Les+Contamines-Montjoie,+France/198+Rte+du+Ch%C3%A2teau,+Saint-Gervais-les-Bains+74170,+France/@45.8587453,6.6730077,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47895a2a8705599b:0x6e93c40b0587ba21!2m2!1d6.7268019!2d45.8227826!1m5!1m1!1s0x47895707c859dfb1:0x51ce9311a96d3f27!2m2!1d6.6996233!2d45.8898248!3e0?entry=ttu).
 
 
-Il sera possible de se rendre sur les lieux après la cérémonie à la mairie. Une piscine intérieure sera à la disposition des invités avant le vin d'honneur (attention, elle n'est pas adaptée/sécurisée pour les enfants).
+Il sera possible de se rendre sur les lieux après la cérémonie à la mairie, à partir de 15h. Une piscine intérieure sera à la disposition des invités de 15h à 16h45, avant le vin d'honneur (attention, elle n'est pas adaptée/sécurisée pour les enfants).
 
-
-Nous ferons quelques photos de groupe vers 17h.
-
-Le vin d'honneur débutera vers 17h30
+Le vin d'honneur débutera à 17h00, suivi rapidement de quelques photos de groupe.
 
 Lieu : [La Ferme de Cupelin](https://www.lafermedecupelin.com/)
 
