@@ -40,7 +40,9 @@ Lieu : [La Ferme de Cupelin](https://www.lafermedecupelin.com/)
 ## Comment se déplacer
 
 S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Contamines-Montjoie en train puis en bus, les navettes sont assez rares et les trajets plus longs qu'en voiture.
-
+Horaires des bus entre la gare du Fayet et les Contamines : [Bus](https://www.sat-montblanc.com/img/os_document/1218_y84_sallanches_st_gervais_les_contamines_06072024_01092024.pdf)
+Horaires des navettes aux Contamines : [Navette](https://www.lescontamines.com/sites/lescontamines/files/content/files/fh-internet-contamines-ete-2024_2_1.pdf)
+En cas de besoin : [Taxi](https://www.taxi-montblanc.com/)
 
 Si vous cherchez une place en voiture ou si vous pouvez prendre quelqu'un faites-nous signe, soit dans le formulaire RSVP, soit par email / Whatsapp.
 
@@ -67,7 +69,7 @@ Nous avons prévu une activité randonnée facile (4,5km et 400m de dénivelé p
 ![Lac de l'étape](https://on-the-road-encore.com/mariage/lacetape.jpg)
 
 
-Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz, mais il est possible d'y accéder directement par les télécabines de Notre-Dame de la Gorge.
+Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz (une surprise est prévue pour motiver les troupes), mais il est possible d'y accéder directement par les télécabines de Notre-Dame de la Gorge.
 
 Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape.
 
@@ -75,9 +77,7 @@ Maillot de bain conseillé.
 
 ## Lune de miel 
 
-Nous comptons partir en vadrouille quelques jours dans la région.
-
-Une trek en tente de 2-3 jours ? Un trail ? De l'escalade ? Ecrivez nous avec des idées !
+Nous comptons partir en vadrouille quelques jours dans la région, a priori faire le tour du Beaufortain en 4 à 5 jours, en autonomie et en partant depuis chez nous 😁
 
 “The mountains are calling and I must go.” - John Muir
 
