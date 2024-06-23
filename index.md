@@ -43,6 +43,8 @@ S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Cont
 
 Horaires des bus entre la gare du Fayet et les Contamines (attention, paiement par carte impossible à bord, prévoir la monnaie): [Bus](https://www.sat-montblanc.com/img/os_document/1218_y84_sallanches_st_gervais_les_contamines_06072024_01092024.pdf)
 
+Pour réserver : ¢https://www.sat-montblanc.com/commander-vos-billets.aspx)
+
 Horaires des navettes (gratuites) aux Contamines : [Navette](https://www.lescontamines.com/sites/lescontamines/files/content/files/fh-internet-contamines-ete-2024_2_1.pdf)
 
 En cas de besoin : [Taxi](https://www.taxi-montblanc.com/)
