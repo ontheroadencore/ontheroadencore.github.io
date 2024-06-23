@@ -41,9 +41,9 @@ Lieu : [La Ferme de Cupelin](https://www.lafermedecupelin.com/)
 
 S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Contamines-Montjoie en train puis en bus, les navettes sont assez rares et les trajets plus longs qu'en voiture.
 
-Horaires des bus entre la gare du Fayet et les Contamines : [Bus](https://www.sat-montblanc.com/img/os_document/1218_y84_sallanches_st_gervais_les_contamines_06072024_01092024.pdf)
+Horaires des bus entre la gare du Fayet et les Contamines (attention, paiement par carte impossible à bord, prévoir la monnaie): [Bus](https://www.sat-montblanc.com/img/os_document/1218_y84_sallanches_st_gervais_les_contamines_06072024_01092024.pdf)
 
-Horaires des navettes aux Contamines : [Navette](https://www.lescontamines.com/sites/lescontamines/files/content/files/fh-internet-contamines-ete-2024_2_1.pdf)
+Horaires des navettes (gratuites) aux Contamines : [Navette](https://www.lescontamines.com/sites/lescontamines/files/content/files/fh-internet-contamines-ete-2024_2_1.pdf)
 
 En cas de besoin : [Taxi](https://www.taxi-montblanc.com/)
 
