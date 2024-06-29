@@ -34,6 +34,12 @@ Lieu : [La Ferme de Cupelin](https://www.lafermedecupelin.com/)
 
 {% include cupelin.html %}
 
+# Cadeau de mariage
+
+Concernant notre cadeau de mariage, si vous souhaitez participer, nous avons décidé de reverser le montant final à une association caritative de notre choix (Les Restos du Coeur et/ou l'UNICEF très probablement). 
+
+Alternativement, nous acceptons aussi volontiers un service en nature, à discuter ensemble (un exemple : garder Margot et Anouk pendant que nous prenons quelques jours en amoureux pour fêter notre mariage).
+
 
 # Infos pratiques
 
@@ -43,7 +49,7 @@ S'il est techniquement possible de rejoindre Saint-Gervais-Les-Bains et Les Cont
 
 Horaires des bus entre la gare du Fayet et les Contamines (attention, paiement par carte impossible à bord, prévoir la monnaie): [Bus](https://www.sat-montblanc.com/img/os_document/1218_y84_sallanches_st_gervais_les_contamines_06072024_01092024.pdf)
 
-Pour réserver : ¢https://www.sat-montblanc.com/commander-vos-billets.aspx)
+Pour réserver : (https://www.sat-montblanc.com/commander-vos-billets.aspx)
 
 Horaires des navettes (gratuites) aux Contamines : [Navette](https://www.lescontamines.com/sites/lescontamines/files/content/files/fh-internet-contamines-ete-2024_2_1.pdf)
 
@@ -57,7 +63,7 @@ Si vous cherchez une place en voiture ou si vous pouvez prendre quelqu'un faites
 ## Enfants
 
 Margot et Anouk seront ravies de partager l'évènement avec tous les enfants présents!
-Nous avons prévu un buffet, quelques animations pour les ~~petits monstres~~ chères têtes blondes, ainsi que des baby sitters sur place pour les 2 ans et plus.
+Nous avons prévu un buffet (dès 18h), quelques animations pour les ~~petits monstres~~ chères têtes blondes, ainsi que deux baby sitters sur place pour les 2 ans et plus.
 Les enfants restent sous la responsabilité des parents. On compte sur vous pour contenir leur excitation.
 
 ## Divers
@@ -76,13 +82,13 @@ Nous avons prévu une activité randonnée facile (4,5km et 400m de dénivelé p
 
 Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz (une surprise est prévue pour motiver les troupes), mais il est possible d'y accéder directement par les télécabines de Notre-Dame de la Gorge.
 
-Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape.
+Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape. La descente peut ensuite se faire soit à pied, soit par les télécabines.
 
 Maillot de bain conseillé.
 
 ## Lune de miel 
 
-Nous comptons partir en vadrouille quelques jours dans la région, a priori faire le tour du Beaufortain en 4 à 5 jours, en autonomie et en partant depuis chez nous 😁
+Nous comptons partir en vadrouille quelques jours dans la région en amoureux. A priori (et sous réserves des conditions météorologiques) le projet est de faire le tour du Beaufortain en 4 à 5 jours, en autonomie et en partant depuis chez nous 😁
 
 “The mountains are calling and I must go.” - John Muir
 
