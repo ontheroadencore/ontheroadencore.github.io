@@ -84,7 +84,11 @@ Les plus sportifs pourront faire la montée à pied par les chalets de Colombaz 
 
 Pour les motivés, rendez-vous à 11h dimanche matin au parking du Pont des Loyers. Pour les autres, rendez-vous entre 13h et 13h30 au lac de l'Etape. La descente peut ensuite se faire soit à pied, soit par les télécabines.
 
-Maillot de bain conseillé.
+
+Nous avons prévu de quoi pique niquer: quiches, pain, crudités. Prenez tout de même des gourdes (à remplir sur place), des plaid / couverts si vous en voulez. Il y a une buvette pour acheter des compléments sur place.
+
+
+Maillot de bain conseillé. 
 
 ## Lune de miel 
 
